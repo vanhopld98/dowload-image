@@ -14,7 +14,7 @@ import java.io.IOException;
  *
  * @author by hopnv.ous on 8/30/2022
  */
-@RequestMapping("/down-load")
+@RequestMapping("/download")
 @RequiredArgsConstructor
 @RestController
 public class FileController {
