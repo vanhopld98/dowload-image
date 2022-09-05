@@ -1,0 +1,5 @@
+aws:
+  s3:
+    bucket-name: ${AWS_S3_BUCKET_NAME:dev-ekyc-media}
+    accessKey: ${AWS_S3_ACCESS_KEY:AKIAUE6BNIO5P4XFDXH7}
+    secretKey: ${AWS_S3_SERCRET_KEY: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}
